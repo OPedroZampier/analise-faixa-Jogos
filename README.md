@@ -46,7 +46,6 @@ Na Classificação Indicativa, cada jogo recebe **duas informações distintas**
 ```
 .
 ├── analise_jogos_classificacao_final.ipynb   # Notebook com toda a análise (código + gráficos)
-├── projeto_final_ics.html                     # Relatório estático (abrir no navegador)
 ├── Projeto_Final__Classificação_de_Jogos.pdf  # Slides de apresentação
 └── README.md
 ```
@@ -86,11 +85,11 @@ Você também pode abrir o `projeto_final_ics.html` diretamente no navegador par
 - Descritores e plataformas são **multivalorados** — um mesmo jogo pode ter vários, então os percentuais por categoria somam mais de 100%.
 
 ## 👥 Autores
-
 - Arthur Bueno
-- Vitor Calasans
 - Leonardo Lins
 - Pedro Lima
+- Vitor Calasans
+
 
 ## 📄 Fonte e créditos
 
